@@ -11,33 +11,45 @@ print("Hello, Matematika Diskrit!")
 Hello, Matematika Diskrit!
 print("Hello World")
 Hello World
+> PENJUMLAHAN <
 a=37
 b=28
 c=a+b
 print(c)
 65
+> PENGURANGAN <
 a=68
 b=45
 c=a-b
 print(C)
 23
+> PERKALIAN <
 a=85
 b=12
 c=a*b
 print(c)
 1020
+> PEMBAGIAN DECIMAL <
 a=77
 b=21
 c=a/b
 print(c)
 3.6666666666666665
+> PEMBAGIAN BULAT <
 a=94
 b=35
 c=a//b
 print(c)
 2
-a = 63
-b = 32
-c = a%b
+> MODULO <
+a=63
+b=32
+c=a%b
 print(c)
 31
+> PANGKAT <
+a=42
+b=3
+c=a**b
+print(c)
+74088
