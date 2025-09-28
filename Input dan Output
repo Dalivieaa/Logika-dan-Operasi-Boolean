@@ -1,3 +1,20 @@
+nama=input("Masukan Nama: ")
+Masukan Nama: Kilau Girda Alifia
+print("Hallo,", nama)
+Hallo, Kilau Girda Alifia
+print=input("Masukan NIM: ")
+Masukan NIM: 250306012
+# Menghitung Luas Persegi Panjang
+# Input Panjang dan Lebar
+# Rumusnya Panjang x Lebar
+Panjang=input("masukan nilai panjang: ")
+masukan nilai panjang: 25
+lebar=input("masukan nilai lebar: ")
+masukan nilai lebar: 10
+luas=int(panjang) * int(lebar)
+print(luas)
+250
+
 print("Hello, Matematika Diskrit!")
 Hello, Matematika Diskrit!
 print("Hello World")
