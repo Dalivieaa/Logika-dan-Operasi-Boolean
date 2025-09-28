@@ -1,43 +1,16 @@
-print("Hello, Matematika Diskrit!")
-Hello, Matematika Diskrit!
-print("Hello World")
-Hello World
-a = 37
-b = 28
-c = a+b
-print(c)
-65
-a = 68
-b = 45
-c = a-b
-print(C)
-23
-a = 85
-b = 12
-c = a*b
-print(c)
-1020
-a = 77
-b = 21
-c = a/b
-print(c)
-3.6666666666666665
-a = 94
-b = 35
-c = a//b
-print(c)
-2
-a = 63
-b = 32
-c = a%b
-print(c)
-31
-a = 42
-b = 3
-c = a**b
-print(c)
-74088
-
-
-
-
+nama=input("Masukan Nama: ")
+Masukan Nama: Kilau Girda Alifia
+print("Hallo,", nama)
+Hallo, Kilau Girda Alifia
+print=input("Masukan NIM: ")
+Masukan NIM: 250306012
+# Menghitung Luas Persegi Panjang
+# Input Panjang dan Lebar
+# Rumusnya Panjang x Lebar
+Panjang=input("masukan nilai panjang: ")
+masukan nilai panjang: 25
+lebar=input("masukan nilai lebar: ")
+masukan nilai lebar: 10
+luas=int(panjang) * int(lebar)
+print(luas)
+250
