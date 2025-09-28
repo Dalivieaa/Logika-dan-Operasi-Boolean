@@ -1,10 +1,10 @@
 p = True
 q = False
-print("p AND q =", p and q)
+print("p AND q =", p and q) > AND <
 p AND q = False
-print("p OR q =", p or q)
+print("p OR q =", p or q)   > OR <
 p OR q = True
-print("NOT p =", not p)
+print("NOT p =", not p)     > NOT <
 NOT p = False
-print("p XOR q =", p ^ q)
+print("p XOR q =", p ^ q)   > XOR <
 p XOR q = True
