@@ -1,0 +1,22 @@
+> TABEL KEBENARAN AND <
+print('=== TABEL KEBENARAN AND ===')
+=== TABEL KEBENARAN AND ===
+print("p =", True, ", q =", True, "=> p AND q =", True and True)
+p = True, q = True => p AND q = True
+print("p =", True, ", q =", False, "=> p AND q =", True and False)
+p = True, q = False => p AND q = False
+print("p =", False, ", q =", True, "=> p AND q =", False and True)
+p = False, q = True => p AND q = False
+print("p =", False, ", q =", False, "=> p AND q =", False and False)
+p = False, q = False => p AND q = False
+> TABEL KEBENARAN p V ~q <
+print('=== TABEL KEBENARAN p V ~q ===')
+=== TABEL KEBENARAN p V ~q ===
+print("p =", True," , q =", False,", not q =", not False," => p V ~q =" , True or not False)
+p = True , q = False , not q = True => p V ~q = True
+print("p =", True," , q =", True,", not q =", not True," => p V ~q =" , True or not True)
+p = True , q = True , not q = False => p V ~q = True
+print("p =", False," , q =", True,", not q =", not True," => p V ~q =" , False or not True)
+p = False , q = True , not q = False => p V ~q = False
+print("p =", True," , q =", True,", not q =", not True," => p V ~q =" , True or not True)
+p = False , q = False , not q = False => p V ~q = False
